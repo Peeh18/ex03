@@ -1,1 +1,1 @@
-# ex03
+Nesse exercicio adicionei um favicon
